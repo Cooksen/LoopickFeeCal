@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LoopickFeeCal/static/css/main.4b64931d.css",
+    "main.js": "/LoopickFeeCal/static/js/main.fc9448b6.js",
+    "static/js/787.b97ba33b.chunk.js": "/LoopickFeeCal/static/js/787.b97ba33b.chunk.js",
+    "static/media/logo.svg": "/LoopickFeeCal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LoopickFeeCal/index.html",
+    "main.4b64931d.css.map": "/LoopickFeeCal/static/css/main.4b64931d.css.map",
+    "main.fc9448b6.js.map": "/LoopickFeeCal/static/js/main.fc9448b6.js.map",
+    "787.b97ba33b.chunk.js.map": "/LoopickFeeCal/static/js/787.b97ba33b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b64931d.css",
+    "static/js/main.fc9448b6.js"
+  ]
+}
